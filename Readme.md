@@ -28,6 +28,11 @@ Teacher - Address
 
 Teacher - Course
 
+### Many To Many relations:
+
+Cousre - Student
+
+
 
 
 
